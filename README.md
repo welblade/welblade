@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, meu nome é Wellington</h1>
-<h3 align="center">Um desenvolvedor tentando se desenvolver</h3>
+<h3 align="center">Um desenvolvedor buscando se desenvolver</h3>
 
 <p align="left"> <a href="https://twitter.com/welblade" target="blank"><img src="https://img.shields.io/twitter/follow/welblade?logo=twitter&style=for-the-badge" alt="welblade" /></a> </p>
 
