@@ -15,7 +15,7 @@
 
 - 💬 Pergunte-me sobre **Dart, kotlin,java, php, python, não sou especialista mas se eu puder ajudar, certamente o farei.**
 
-- 📫 Como me contatar **welblade@gmail.com**
+- 📫 Como me contatar **wellington.oliveira.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
