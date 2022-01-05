@@ -6,7 +6,7 @@
 - 🌱 Atualmente estou estudando **Kotlin, meu objetivo é me tornar um desenvolvedor mobile competente.**
 
 - 👯 Estou procurando colaborar em **projetos opensource em Kotlin ou Flutter para aumentar meu conhecimento.**
-- 
+
 - 🔭 Atualmente não estou trabalhando em **nenhum projeto, mas tenho vontade de colaborar com algum projeto**
 
 - 🤝 Estou procurando ajuda para... **ainda não tenho um projeto importante para recrutar colaboradores.**
